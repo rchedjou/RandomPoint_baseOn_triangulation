@@ -1,0 +1,2 @@
+cc -O -I/snap/gnome-3-34-1804/36/usr/include -I/snap/gnome-3-34-1804/36/usr/include/x86_64-linux-gnu -o showme showme.c -L/snap/gnome-3-34-1804/36/usr/lib -lX11
+#voila le code pour exécute le fichier showme.c
